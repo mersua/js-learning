@@ -13,6 +13,6 @@
     <li>Know how to create full apps on native JS</li>
     <li>NodeJS + ExpressJS</li>
     <li>PHP: (Phalcon or YII2) and PHP7</li>
-    <li>NoSQL DataBase, for example - Redis or MongoDB<li>
+    <li>NoSQL DataBase, for example - Redis or MongoDB</li>
     <li>Only hardcode!</li>
 </ul>
